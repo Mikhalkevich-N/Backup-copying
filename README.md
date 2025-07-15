@@ -28,7 +28,7 @@
 
 ### *Решение:*
 #### Файл crontab:
-[text](../../Downloads/crontab)
+[crontab](https://github.com/Mikhalkevich-N/Backup-copying/blob/main/crontab)
 
 ![png](image-2.png)
 
